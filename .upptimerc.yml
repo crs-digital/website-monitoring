@@ -6,8 +6,6 @@ user-agent: crs-digital
 sites:
   - name: CRS
     url: https://www.crs.org
-    headers:
-      - "User-Agent: CRS Website Uptime Monitor"
   - name: CRS Español
     url: https://www.crsespanol.org
   - name: Support CRS
