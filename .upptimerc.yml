@@ -56,7 +56,7 @@ status-website:
   introMessage: Check here to verify whether a website is up or down.
   navbar:
     - title: Status
-      href: /
+      href: /website-monitoring
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: light
