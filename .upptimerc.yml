@@ -51,7 +51,6 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /website-monitoring
   logoUrl: https://www.crs.org/sites/all/themes/crs/images/logo-crs-legacy.svg
-  favicon: https://www.crs.org/sites/all/themes/crs/images/favicon/touch-icon-192x192.png
   faviconSvg: https://github.com/crs-digital/website-monitoring/blob/f0d42fde42e61a747a6fa42326bf3fd8ffd1afb7/assets/favicon.svg
   name: CRS Website Monitoring
   introTitle: "CRS website uptime monitoring."
