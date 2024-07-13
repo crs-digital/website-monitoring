@@ -52,6 +52,7 @@ status-website:
   name: CRS Website Monitoring
   introTitle: "CRS website uptime monitoring."
   introMessage: Check here to verify whether a website is up or down.
+  navbar:
     - title: Status
       href: /
     - title: GitHub
