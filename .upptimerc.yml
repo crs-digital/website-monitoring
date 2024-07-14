@@ -53,6 +53,7 @@ status-website:
   logoUrl: https://www.crs.org/sites/all/themes/crs/images/logo-crs-legacy.svg
   faviconSvg: https://raw.githubusercontent.com/crs-digital/website-monitoring/f0d42fde42e61a747a6fa42326bf3fd8ffd1afb7/assets/favicon.svg
   robotsText: "User-agent: * \n Disallow: /"
+  customHeadHtml: "<link rel='stylesheet' type='text/css' href='https://cloud.typography.com/7240754/770086/css/fonts.css' /><style> body { font-family: font-family: 'Gotham A', 'Gotham B', Arial, Helvetica, sans-serif; } </style>"
   name: CRS Website Monitoring
   introTitle: "CRS website uptime monitoring."
   introMessage: Check here to verify whether a website is up or down.
