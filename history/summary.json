@@ -198,19 +198,19 @@
     "url": "https://gifts.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/gifts.crs.org.ico",
     "slug": "gift-catalog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 462,
-    "timeWeek": 392,
-    "timeMonth": 291,
-    "timeYear": 271,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.91%",
+    "time": 268,
+    "timeDay": 368,
+    "timeWeek": 365,
+    "timeMonth": 287,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-08-20": 0
+      "2024-08-20": 49
     }
   },
   {
