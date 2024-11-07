@@ -353,17 +353,19 @@
     "url": "https://webapps.softrek.com/crsprod/api/proc",
     "icon": "https://icons.duckduckgo.com/ip3/webapps.softrek.com.ico",
     "slug": "sof-trek-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 198,
-    "timeWeek": 255,
-    "timeMonth": 237,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 266,
+    "timeDay": 160,
+    "timeWeek": 239,
+    "timeMonth": 233,
+    "timeYear": 266,
+    "dailyMinutesDown": {
+      "2024-11-07": 0
+    }
   }
 ]
