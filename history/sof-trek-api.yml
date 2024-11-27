@@ -1,7 +1,7 @@
 url: https://webapps.softrek.com/crsprod/api/proc
-status: down
-code: 503
-responseTime: 452
-lastUpdated: 2024-11-27T04:12:18.455Z
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2024-11-27T05:36:52.493Z
 startTime: 2024-07-13T21:57:50.573Z
 generator: Upptime <https://github.com/upptime/upptime>
