@@ -1,7 +1,7 @@
 url: https://prayers.crs.org
-status: up
-code: 200
-responseTime: 377
-lastUpdated: 2024-12-01T23:11:38.613Z
+status: down
+code: 500
+responseTime: 119
+lastUpdated: 2024-12-02T02:59:26.455Z
 startTime: 2024-07-13T18:25:57.195Z
 generator: Upptime <https://github.com/upptime/upptime>
