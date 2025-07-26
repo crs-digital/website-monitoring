@@ -4,19 +4,19 @@
     "url": "https://www.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.crs.org.ico",
     "slug": "crs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 450,
-    "timeWeek": 471,
-    "timeMonth": 535,
-    "timeYear": 270,
+    "time": 268,
+    "timeDay": 496,
+    "timeWeek": 484,
+    "timeMonth": 537,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-07-26": 0
+      "2025-07-26": 21
     }
   },
   {
