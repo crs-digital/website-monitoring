@@ -190,12 +190,12 @@
     "slug": "gift-catalog",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "91.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 537,
-    "timeDay": 1192,
+    "timeDay": 1303,
     "timeWeek": 904,
     "timeMonth": 865,
     "timeYear": 564,
@@ -235,10 +235,10 @@
     "url": "https://www.ict4dconference.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.ict4dconference.org.ico",
     "slug": "ict-4-d-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
@@ -246,7 +246,9 @@
     "timeWeek": 175,
     "timeMonth": 210,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 1
+    }
   },
   {
     "name": "Impact / 75th Anniversary",
@@ -289,9 +291,9 @@
     "url": "https://ovcsupport.org",
     "icon": "https://icons.duckduckgo.com/ip3/ovcsupport.org.ico",
     "slug": "ovc-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -300,7 +302,9 @@
     "timeWeek": 840,
     "timeMonth": 949,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Vatican Conference",
