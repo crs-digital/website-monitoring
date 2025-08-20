@@ -235,19 +235,19 @@
     "url": "https://www.ict4dconference.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.ict4dconference.org.ico",
     "slug": "ict-4-d-conference",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 162,
-    "timeWeek": 175,
+    "timeDay": 196,
+    "timeWeek": 182,
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-08-20": 1
+      "2025-08-20": 7
     }
   },
   {
@@ -291,19 +291,19 @@
     "url": "https://ovcsupport.org",
     "icon": "https://icons.duckduckgo.com/ip3/ovcsupport.org.ico",
     "slug": "ovc-support",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 923,
-    "timeDay": 863,
-    "timeWeek": 840,
-    "timeMonth": 949,
+    "timeDay": 870,
+    "timeWeek": 844,
+    "timeMonth": 947,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2025-08-20": 0
+      "2025-08-20": 6
     }
   },
   {
