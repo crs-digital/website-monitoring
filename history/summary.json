@@ -170,19 +170,19 @@
     "url": "https://farmertofarmer.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/farmertofarmer.crs.org.ico",
     "slug": "farmer-to-farmer",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 216,
-    "timeWeek": 252,
-    "timeMonth": 208,
-    "timeYear": 173,
+    "time": 177,
+    "timeDay": 1746,
+    "timeWeek": 630,
+    "timeMonth": 304,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-08-27": 0
+      "2025-08-27": 26
     }
   },
   {
