@@ -170,9 +170,9 @@
     "url": "https://farmertofarmer.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/farmertofarmer.crs.org.ico",
     "slug": "farmer-to-farmer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,7 +181,9 @@
     "timeWeek": 252,
     "timeMonth": 208,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "Gift Catalog",
@@ -243,7 +245,7 @@
     "uptimeYear": "100.00%",
     "time": 213,
     "timeDay": 219,
-    "timeWeek": 233,
+    "timeWeek": 234,
     "timeMonth": 210,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -297,7 +299,7 @@
     "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 1179,
-    "timeWeek": 1001,
+    "timeWeek": 1019,
     "timeMonth": 970,
     "timeYear": 926,
     "dailyMinutesDown": {}
