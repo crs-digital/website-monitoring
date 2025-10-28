@@ -192,13 +192,13 @@
     "slug": "gift-catalog",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.83%",
     "time": 591,
-    "timeDay": 979,
-    "timeWeek": 916,
+    "timeDay": 1312,
+    "timeWeek": 878,
     "timeMonth": 837,
     "timeYear": 675,
     "dailyMinutesDown": {
@@ -226,10 +226,10 @@
     "url": "https://ics.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/ics.crs.org.ico",
     "slug": "ics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -237,7 +237,9 @@
     "timeWeek": 195,
     "timeMonth": 263,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 1
+    }
   },
   {
     "name": "ICT4D Conference",
