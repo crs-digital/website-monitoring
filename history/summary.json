@@ -98,19 +98,19 @@
     "url": "https://www.changingthewaywecare.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.changingthewaywecare.org.ico",
     "slug": "changing-the-way-we-care",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 146,
-    "timeWeek": 174,
-    "timeMonth": 209,
-    "timeYear": 210,
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 207,
+    "timeDay": 589,
+    "timeWeek": 281,
+    "timeMonth": 236,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-10-30": 0
+      "2025-10-30": 28
     }
   },
   {
