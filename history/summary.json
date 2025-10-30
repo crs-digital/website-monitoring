@@ -98,9 +98,9 @@
     "url": "https://www.changingthewaywecare.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.changingthewaywecare.org.ico",
     "slug": "changing-the-way-we-care",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 174,
     "timeMonth": 209,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-30": 0
+    }
   },
   {
     "name": "Coffeelands",
@@ -194,12 +196,12 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.58%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
     "time": 591,
     "timeDay": 116,
     "timeWeek": 978,
-    "timeMonth": 847,
+    "timeMonth": 867,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-10-27": 30,
