@@ -231,7 +231,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -248,9 +248,9 @@
     "url": "https://www.ict4dconference.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.ict4dconference.org.ico",
     "slug": "ict-4-d-conference",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -259,7 +259,9 @@
     "timeWeek": 178,
     "timeMonth": 195,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-04": 0
+    }
   },
   {
     "name": "Impact / 75th Anniversary",
