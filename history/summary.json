@@ -62,18 +62,20 @@
     "url": "https://www.crsricebowl.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.crsricebowl.org.ico",
     "slug": "crs-rice-bowl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 1602,
-    "timeWeek": 1494,
-    "timeMonth": 934,
-    "timeYear": 621,
-    "dailyMinutesDown": {}
+    "time": 687,
+    "timeDay": 5001,
+    "timeWeek": 2357,
+    "timeMonth": 1167,
+    "timeYear": 642,
+    "dailyMinutesDown": {
+      "2025-11-14": 0
+    }
   },
   {
     "name": "Annual Report",
