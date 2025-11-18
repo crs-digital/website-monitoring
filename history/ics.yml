@@ -1,7 +1,7 @@
 url: https://ics.crs.org
-status: up
-code: 200
-responseTime: 147
-lastUpdated: 2025-11-17T23:12:59.411Z
+status: down
+code: 500
+responseTime: 211
+lastUpdated: 2025-11-18T11:58:08.360Z
 startTime: 2024-07-13T18:25:53.703Z
 generator: Upptime <https://github.com/upptime/upptime>
