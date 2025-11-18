@@ -6,9 +6,9 @@
     "slug": "crs",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 911,
     "timeDay": 2386,
@@ -16,7 +16,7 @@
     "timeMonth": 3104,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2025-11-18": 172,
+      "2025-11-18": 180,
       "2025-11-14": 30,
       "2025-07-26": 21
     }
@@ -28,9 +28,9 @@
     "slug": "crs-espanol",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.95%",
     "time": 882,
     "timeDay": 1635,
@@ -38,7 +38,7 @@
     "timeMonth": 2896,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2025-11-18": 172,
+      "2025-11-18": 180,
       "2025-11-14": 30,
       "2025-06-04": 43
     }
@@ -50,9 +50,9 @@
     "slug": "support-crs",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 832,
     "timeDay": 1668,
@@ -60,7 +60,7 @@
     "timeMonth": 3259,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2025-11-18": 172,
+      "2025-11-18": 180,
       "2025-11-14": 30
     }
   },
@@ -112,17 +112,17 @@
     "slug": "changing-the-way-we-care",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.95%",
     "time": 243,
     "timeDay": 578,
     "timeWeek": 892,
     "timeMonth": 712,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-11-18": 172,
+      "2025-11-18": 180,
       "2025-11-14": 30,
       "2025-10-30": 28
     }
@@ -172,17 +172,17 @@
     "url": "https://crsmaterials.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/crsmaterials.crs.org.ico",
     "slug": "crs-materials",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "98.31%",
+    "uptimeDay": "88.12%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
-    "time": 644,
-    "timeDay": 379,
-    "timeWeek": 507,
-    "timeMonth": 599,
-    "timeYear": 661,
+    "time": 643,
+    "timeDay": 355,
+    "timeWeek": 485,
+    "timeMonth": 589,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-11-18": 171
     }
@@ -313,19 +313,19 @@
     "url": "https://onboarding.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/onboarding.crs.org.ico",
     "slug": "onboarding",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.60%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
     "time": 238,
-    "timeDay": 146,
-    "timeWeek": 150,
-    "timeMonth": 156,
+    "timeDay": 141,
+    "timeWeek": 148,
+    "timeMonth": 155,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-11-18": 171
+      "2025-11-18": 179
     }
   },
   {
