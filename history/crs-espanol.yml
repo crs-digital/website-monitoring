@@ -1,7 +1,7 @@
 url: https://www.crsespanol.org
-status: up
-code: 200
-responseTime: 3621
-lastUpdated: 2025-11-18T15:51:12.263Z
+status: down
+code: 500
+responseTime: 234
+lastUpdated: 2025-11-18T15:58:33.894Z
 startTime: 2024-07-13T18:25:48.096Z
 generator: Upptime <https://github.com/upptime/upptime>
