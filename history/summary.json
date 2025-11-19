@@ -251,11 +251,11 @@
     "url": "https://ics.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/ics.crs.org.ico",
     "slug": "ics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "27.90%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "97.13%",
+    "uptimeDay": "28.42%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "99.76%",
     "time": 264,
     "timeDay": 7488,
@@ -263,7 +263,7 @@
     "timeMonth": 948,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-11-19": 1015,
+      "2025-11-19": 1007,
       "2025-11-18": 225,
       "2025-10-28": 18
     }
