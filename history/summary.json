@@ -6,15 +6,15 @@
     "slug": "crs",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "90.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
     "time": 1339,
-    "timeDay": 1251,
+    "timeDay": 276,
     "timeWeek": 534,
-    "timeMonth": 417,
-    "timeYear": 1707,
+    "timeMonth": 422,
+    "timeYear": 1711,
     "dailyMinutesDown": {
       "2026-05-05": 140,
       "2025-11-18": 265,
@@ -36,8 +36,8 @@
     "time": 1191,
     "timeDay": 341,
     "timeWeek": 268,
-    "timeMonth": 271,
-    "timeYear": 1486,
+    "timeMonth": 269,
+    "timeYear": 1489,
     "dailyMinutesDown": {
       "2025-11-18": 265,
       "2025-11-14": 30,
@@ -51,15 +51,15 @@
     "slug": "support-crs",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "90.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.92%",
     "time": 1230,
-    "timeDay": 1206,
+    "timeDay": 268,
     "timeWeek": 533,
-    "timeMonth": 272,
-    "timeYear": 1583,
+    "timeMonth": 273,
+    "timeYear": 1587,
     "dailyMinutesDown": {
       "2026-05-05": 139,
       "2025-11-18": 265,
@@ -71,18 +71,19 @@
     "url": "https://www.crsricebowl.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.crsricebowl.org.ico",
     "slug": "crs-rice-bowl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.94%",
-    "time": 951,
+    "time": 952,
     "timeDay": 2205,
     "timeWeek": 1611,
-    "timeMonth": 1587,
+    "timeMonth": 1595,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2026-05-06": 0,
       "2026-04-28": 92,
       "2025-11-18": 179,
       "2025-11-14": 45
@@ -102,8 +103,8 @@
     "time": 299,
     "timeDay": 293,
     "timeWeek": 205,
-    "timeMonth": 210,
-    "timeYear": 334,
+    "timeMonth": 207,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2025-11-18": 171
     }
@@ -122,8 +123,8 @@
     "time": 354,
     "timeDay": 293,
     "timeWeek": 213,
-    "timeMonth": 196,
-    "timeYear": 403,
+    "timeMonth": 193,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2025-11-18": 265,
       "2025-11-14": 30,
@@ -144,7 +145,7 @@
     "time": 184,
     "timeDay": 290,
     "timeWeek": 190,
-    "timeMonth": 173,
+    "timeMonth": 175,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2025-11-18": 171
@@ -164,8 +165,8 @@
     "time": 1122,
     "timeDay": 1505,
     "timeWeek": 1019,
-    "timeMonth": 2010,
-    "timeYear": 1297,
+    "timeMonth": 2021,
+    "timeYear": 1298,
     "dailyMinutesDown": {
       "2025-11-18": 157
     }
@@ -184,8 +185,8 @@
     "time": 696,
     "timeDay": 622,
     "timeWeek": 604,
-    "timeMonth": 678,
-    "timeYear": 713,
+    "timeMonth": 672,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2025-11-18": 191
     }
@@ -197,15 +198,15 @@
     "slug": "farmer-to-farmer",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "90.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.93%",
     "time": 1155,
-    "timeDay": 1367,
+    "timeDay": 170,
     "timeWeek": 590,
     "timeMonth": 326,
-    "timeYear": 1462,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2026-05-05": 139,
       "2025-11-18": 157,
@@ -227,8 +228,8 @@
     "time": 800,
     "timeDay": 1473,
     "timeWeek": 1071,
-    "timeMonth": 915,
-    "timeYear": 842,
+    "timeMonth": 938,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2026-04-14": 106,
       "2026-03-13": 87,
@@ -268,7 +269,7 @@
     "time": 277,
     "timeDay": 342,
     "timeWeek": 252,
-    "timeMonth": 206,
+    "timeMonth": 207,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2025-11-20": 984,
@@ -291,7 +292,7 @@
     "time": 287,
     "timeDay": 314,
     "timeWeek": 332,
-    "timeMonth": 352,
+    "timeMonth": 349,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2026-04-02": 52,
@@ -313,8 +314,8 @@
     "time": 800,
     "timeDay": 1018,
     "timeWeek": 920,
-    "timeMonth": 891,
-    "timeYear": 799,
+    "timeMonth": 897,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2025-11-18": 171
     }
@@ -333,8 +334,8 @@
     "time": 213,
     "timeDay": 264,
     "timeWeek": 193,
-    "timeMonth": 215,
-    "timeYear": 197,
+    "timeMonth": 212,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2025-11-18": 201
     }
@@ -353,7 +354,7 @@
     "time": 933,
     "timeDay": 1157,
     "timeWeek": 984,
-    "timeMonth": 983,
+    "timeMonth": 980,
     "timeYear": 932,
     "dailyMinutesDown": {}
   },
@@ -371,7 +372,7 @@
     "time": 204,
     "timeDay": 231,
     "timeWeek": 175,
-    "timeMonth": 164,
+    "timeMonth": 161,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -389,7 +390,7 @@
     "time": 378,
     "timeDay": 384,
     "timeWeek": 389,
-    "timeMonth": 383,
+    "timeMonth": 378,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-11-18": 157
@@ -401,18 +402,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webapps.softrek.com.ico",
     "slug": "sof-trek-api",
     "status": "down",
-    "uptime": "77.93%",
+    "uptime": "77.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.04%",
+    "uptimeYear": "59.79%",
     "time": 273,
     "timeDay": 225,
     "timeWeek": 205,
-    "timeMonth": 250,
+    "timeMonth": 252,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-05-06": 89,
+      "2026-05-06": 1413,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
