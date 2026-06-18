@@ -40,10 +40,6 @@ sites:
     url: https://www.viiconference.org
   - name: Virtual Votive
     url: https://prayers.crs.org
-  - name: SofTrek API
-    url: https://webapps.softrek.com/crsprod/api/proc
-    expectedStatusCodes:
-      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
