@@ -71,9 +71,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.crsricebowl.org.ico",
     "slug": "crs-rice-bowl",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.73%",
+    "uptimeWeek": "31.95%",
     "uptimeMonth": "72.28%",
     "uptimeYear": "97.63%",
     "time": 1182,
@@ -124,9 +124,9 @@
     "url": "https://www.changingthewaywecare.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.changingthewaywecare.org.ico",
     "slug": "changing-the-way-we-care",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -138,7 +138,8 @@
     "dailyMinutesDown": {
       "2025-10-30": 28,
       "2025-11-14": 30,
-      "2025-11-18": 265
+      "2025-11-18": 265,
+      "2026-06-20": 0
     }
   },
   {
@@ -395,7 +396,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prayers.crs.org.ico",
     "slug": "virtual-votive",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.57%",
