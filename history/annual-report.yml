@@ -1,7 +1,7 @@
 url: https://annualreport.crs.org
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2026-08-12T23:32:52.891Z
+status: down
+code: 403
+responseTime: 32
+lastUpdated: 2026-08-13T07:08:53.236Z
 startTime: 2024-07-13T18:25:49.997Z
 generator: Upptime <https://github.com/upptime/upptime>
