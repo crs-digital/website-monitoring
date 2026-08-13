@@ -6,19 +6,20 @@
     "slug": "crs",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 1340,
     "timeDay": 192,
     "timeWeek": 263,
     "timeMonth": 227,
-    "timeYear": 1627,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2025-11-14": 30,
       "2025-11-18": 265,
-      "2026-05-05": 140
+      "2026-05-05": 140,
+      "2026-08-13": 3
     }
   },
   {
@@ -26,20 +27,21 @@
     "url": "https://www.crsespanol.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.crsespanol.org.ico",
     "slug": "crs-espanol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
-    "time": 1199,
-    "timeDay": 263,
-    "timeWeek": 324,
-    "timeMonth": 450,
-    "timeYear": 1416,
+    "time": 1198,
+    "timeDay": 149,
+    "timeWeek": 288,
+    "timeMonth": 437,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-11-14": 30,
-      "2025-11-18": 265
+      "2025-11-18": 265,
+      "2026-08-13": 2
     }
   },
   {
@@ -47,21 +49,22 @@
     "url": "https://support.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/support.crs.org.ico",
     "slug": "support-crs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
-    "time": 1243,
-    "timeDay": 159,
-    "timeWeek": 231,
-    "timeMonth": 220,
-    "timeYear": 1519,
+    "time": 1242,
+    "timeDay": 96,
+    "timeWeek": 206,
+    "timeMonth": 214,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2025-11-14": 30,
       "2025-11-18": 265,
-      "2026-05-05": 139
+      "2026-05-05": 139,
+      "2026-08-13": 2
     }
   },
   {
@@ -103,19 +106,20 @@
     "url": "https://annualreport.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/annualreport.crs.org.ico",
     "slug": "annual-report",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 303,
-    "timeDay": 200,
-    "timeWeek": 208,
-    "timeMonth": 231,
-    "timeYear": 336,
+    "time": 302,
+    "timeDay": 116,
+    "timeWeek": 186,
+    "timeMonth": 225,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-11-18": 171
+      "2025-11-18": 171,
+      "2026-08-13": 2
     }
   },
   {
@@ -148,19 +152,20 @@
     "url": "https://coffeelands.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/coffeelands.crs.org.ico",
     "slug": "coffeelands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 186,
-    "timeDay": 199,
-    "timeWeek": 165,
-    "timeMonth": 192,
+    "timeDay": 110,
+    "timeWeek": 147,
+    "timeMonth": 187,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-11-18": 171
+      "2025-11-18": 171,
+      "2026-08-13": 2
     }
   },
   {
@@ -168,19 +173,20 @@
     "url": "https://compass.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/compass.crs.org.ico",
     "slug": "compass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1179,
-    "timeDay": 903,
-    "timeWeek": 1017,
-    "timeMonth": 941,
-    "timeYear": 1278,
+    "time": 1177,
+    "timeDay": 457,
+    "timeWeek": 891,
+    "timeMonth": 912,
+    "timeYear": 1274,
     "dailyMinutesDown": {
-      "2025-11-18": 157
+      "2025-11-18": 157,
+      "2026-08-13": 2
     }
   },
   {
@@ -188,20 +194,21 @@
     "url": "https://crsmaterials.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/crsmaterials.crs.org.ico",
     "slug": "crs-materials",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 694,
-    "timeDay": 671,
-    "timeWeek": 618,
-    "timeMonth": 607,
-    "timeYear": 701,
+    "time": 693,
+    "timeDay": 343,
+    "timeWeek": 542,
+    "timeMonth": 588,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-11-18": 191,
-      "2026-05-12": 157
+      "2026-05-12": 157,
+      "2026-08-13": 2
     }
   },
   {
@@ -209,22 +216,23 @@
     "url": "https://farmertofarmer.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/farmertofarmer.crs.org.ico",
     "slug": "farmer-to-farmer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1177,
-    "timeDay": 140,
-    "timeWeek": 158,
-    "timeMonth": 224,
-    "timeYear": 1496,
+    "timeDay": 85,
+    "timeWeek": 142,
+    "timeMonth": 218,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2025-08-27": 26,
       "2025-11-14": 29,
       "2025-11-18": 157,
-      "2026-05-05": 139
+      "2026-05-05": 139,
+      "2026-08-13": 1
     }
   },
   {
@@ -274,23 +282,24 @@
     "url": "https://ics.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/ics.crs.org.ico",
     "slug": "ics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 287,
-    "timeDay": 160,
-    "timeWeek": 155,
-    "timeMonth": 223,
-    "timeYear": 306,
+    "timeDay": 91,
+    "timeWeek": 139,
+    "timeMonth": 216,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2025-10-28": 18,
       "2025-11-18": 225,
       "2025-11-19": 1053,
       "2025-11-20": 984,
-      "2026-05-29": 1052
+      "2026-05-29": 1052,
+      "2026-08-13": 1
     }
   },
   {
@@ -320,19 +329,20 @@
     "url": "https://impact.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/impact.crs.org.ico",
     "slug": "impact-75th-anniversary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 814,
-    "timeDay": 784,
-    "timeWeek": 899,
-    "timeMonth": 932,
-    "timeYear": 833,
+    "time": 812,
+    "timeDay": 400,
+    "timeWeek": 789,
+    "timeMonth": 903,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-11-18": 171
+      "2025-11-18": 171,
+      "2026-08-13": 1
     }
   },
   {
@@ -340,19 +350,20 @@
     "url": "https://onboarding.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/onboarding.crs.org.ico",
     "slug": "onboarding",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 191,
-    "timeDay": 124,
-    "timeWeek": 150,
-    "timeMonth": 169,
+    "time": 190,
+    "timeDay": 69,
+    "timeWeek": 133,
+    "timeMonth": 165,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-11-18": 201
+      "2025-11-18": 201,
+      "2026-08-13": 1
     }
   },
   {
@@ -396,20 +407,21 @@
     "url": "https://prayers.crs.org",
     "icon": "https://icons.duckduckgo.com/ip3/prayers.crs.org.ico",
     "slug": "virtual-votive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 385,
-    "timeDay": 383,
-    "timeWeek": 456,
-    "timeMonth": 441,
-    "timeYear": 384,
+    "time": 384,
+    "timeDay": 201,
+    "timeWeek": 401,
+    "timeMonth": 428,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-11-18": 157,
-      "2026-05-29": 1062
+      "2026-05-29": 1062,
+      "2026-08-13": 1
     }
   }
 ]
