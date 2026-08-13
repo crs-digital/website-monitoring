@@ -1,7 +1,7 @@
 url: https://support.crs.org
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2026-08-12T23:32:52.456Z
+status: down
+code: 403
+responseTime: 33
+lastUpdated: 2026-08-13T07:08:39.751Z
 startTime: 2024-07-13T18:25:48.669Z
 generator: Upptime <https://github.com/upptime/upptime>
